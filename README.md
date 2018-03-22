@@ -8,7 +8,7 @@
 1. git简介
 > git配置  
 `
-	git config --global user.name 'zhanghaoran'  
+	git config --global user.name 'zhanghaoran'    
 	git config --global user.name '****@139.com'
 `
 2. git仓库
@@ -19,10 +19,10 @@
 7. 其他
 
 ## 学习markdown
-**加粗**
+**加粗**  
 *斜体*  
 
 |Tables    |Are     |Cool   |
-|--------  |:---:   | -----:|
+|--------  |:---:   |-----: |
 |left      |middle  |right  |
 
