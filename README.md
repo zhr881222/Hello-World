@@ -12,7 +12,7 @@
 
 * git简介
   > git配置  
-  > `git config --global user.name 'zhanghaoran'      
+  > `git config --global user.name 'zhanghaoran'        
   >  git config --global user.name '****@139.com'`
 * git仓库
 * 文件管理
@@ -52,6 +52,4 @@ _斜体_
 | left | middle | right |
 
 
-
-[^1]: 备注1
 
