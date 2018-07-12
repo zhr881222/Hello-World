@@ -12,8 +12,8 @@
 
 * git简介
   > git配置  
-  > `git config --global user.name 'zhanghaoran'        
-  >  git config --global user.name '****@139.com'`
+  > `git config --global user.name "zhanghaoran"        
+  >  git config --global user.email "****@139.com"`
 * git仓库
 * 文件管理
 * 版本回退
